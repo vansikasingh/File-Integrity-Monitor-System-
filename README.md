@@ -13,7 +13,7 @@ FIM is a technology that monitors and detects changes in files that may indicate
 
 
 
-## Screenshot of Software Running 
+## Screenshots 
 
 ![](https://user-images.githubusercontent.com/71205815/147673026-98d3fee8-a557-4299-95cb-eb8d293d69d9.jpg)
 
